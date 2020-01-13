@@ -1,4 +1,4 @@
-DEMO （ on Ubuntu )
+DEMO ( on Ubuntu )
 =====================================================================
 
 Preparations need to be done in advance. ( ref.  Report section "How to build/run" )
@@ -31,5 +31,5 @@ $: sh clean.sh stop
 ########################  Test files
 
 folder: test ( 117B )
-            test2 ( 8.2MB )
-            corpus ( 193.8MB )
+        test2 ( 8.2MB )
+        corpus ( 193.8MB )
